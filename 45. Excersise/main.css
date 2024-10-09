@@ -1,0 +1,7 @@
+QTableWidget{
+    border: 5px solid red
+}
+
+QHeaderView{ 
+    border: color(srgb red green blue)
+}
